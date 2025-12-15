@@ -5,14 +5,6 @@
 > incluindo catálogo de produtos, gerenciamento de pedidos e integração 
 > assíncrona com serviços de pagamento e estoque via Apache Kafka.
 
-## Funcionalidades
-
-Liste os principais recursos que seu projeto oferece. Use caixas de seleção (`- [ ]` ou `- [x]`) se for uma lista de tarefas ou um *roadmap*.
-
-* Funcionalidade 1: Exemplo - Autenticação de usuários via OAuth2.
-* Funcionalidade 2: Exemplo - Geração de relatórios em PDF.
-* Funcionalidade 3: Exemplo - Integração com API externa X.
-
 ## 🛠️ Tecnologias Utilizadas
 
 | Categoria          | Tecnologia  | Versão |
