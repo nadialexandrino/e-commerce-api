@@ -27,8 +27,8 @@ Instruções passo a passo para configurar e rodar o projeto localmente.
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/seu-usuario/nome-do-projeto.git](https://github.com/seu-usuario/nome-do-projeto.git)
-cd nome-do-projeto
+git clone https://github.com/nadialexandrino/e-commerce-api
+cd e-commerce-api
 ```
 
 ### 2. Iniciar Kafka
